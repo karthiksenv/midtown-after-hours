@@ -1,0 +1,8 @@
+id,role,type,description,size/ratio,style line ref,source
+city,environment,procedural geometry,glass concrete towers and windows,meters,night-midtown,code
+roads,collision and navigation,procedural geometry,fixed avenues sidewalks crosswalks,480m district,night-midtown,code
+signs,landmarks,canvas textures,original neon billboards and street signs,various,night-midtown,code
+vehicles,driving,procedural geometry,cars taxis sport motorcycles,meters,night-midtown,code
+characters,player and NPC,procedural geometry,articulated pedestrians and hostile crews,1.8m,night-midtown,code
+effects,feedback,procedural geometry and WebAudio,tracers sparks engine and shots,various,night-midtown,code
+hud,interface,HTML and canvas,health ammo score and street minimap,responsive,night-midtown,code
